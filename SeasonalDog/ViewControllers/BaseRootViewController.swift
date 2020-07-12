@@ -8,9 +8,6 @@
 
 import UIKit
 
-enum Season: String {
-    case spring, summer, autumn, winter
-}
 
 class BaseRootViewController: UIViewController {
     

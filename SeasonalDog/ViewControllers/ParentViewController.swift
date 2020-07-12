@@ -8,10 +8,8 @@
 
 import UIKit
 
-enum Page {
-    case One
-    case Two
-    case Three
+enum Season: String {
+    case spring, summer, autumn, winter
 }
 
 protocol PageDelegate {
